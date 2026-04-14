@@ -7,7 +7,7 @@ permalink: /support/
 
 For help with PIBU, contact:
 
-byoungil.kwun@icloud.com
+pibu.ai.skincare@gmail.com
 
 Please include a short description of the issue, the device you are using, and any relevant screenshots if available.
 
@@ -18,8 +18,3 @@ Common support topics:
 - Skin profile and ingredient preferences
 - Product feedback or reviews
 - Account deletion and privacy requests
-
-Legal pages:
-
-- [Privacy Policy](/pibu-legal/privacy/)
-- [Terms of Service](/pibu-legal/terms/)
