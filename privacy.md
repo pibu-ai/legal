@@ -85,7 +85,7 @@ We use reasonable administrative, technical, and organizational safeguards to pr
 
 ## Children
 
-PIBU is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+PIBU is a general-audience app and is not specifically directed to children under 13. We do not knowingly collect personal information from children under 13. If we learn that we collected personal information from a child under 13 without required consent, we will delete it.
 
 ## International Processing
 
